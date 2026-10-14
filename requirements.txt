@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+numpy
+mediapipe
+Pillow
+qrcode
+Flask
